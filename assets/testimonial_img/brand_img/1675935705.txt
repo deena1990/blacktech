@@ -1,0 +1,21 @@
+Frontend:-
+Contact us:- add a pop-up message after submission of contact us form(Done)
+Home:- "Home" make it bold
+Register Here:- correct pop-up message(Done)
+Stay In Touch:- keep equal distance between social media platform (Desginer points)
+Partner:- Missing (Done)
+Products:- Missing
+Notification/Alert:- (sir said that don't write this file)
+Search:- Missing(we Don't find search box in template) (We will do later)
+Reviews:- Missing(we Don't find Review in template)
+
+Backend:-
+setting:- Done(user setting)
+Notification:- (sir said that don't write this file)
+Manage Tabs:- (user setting)
+Help Section:- Missing(we Don't find Help Section  in template)
+Reports:- Missing
+
+
+
+

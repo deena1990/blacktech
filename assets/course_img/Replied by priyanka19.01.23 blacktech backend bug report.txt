@@ -1,0 +1,33 @@
+1.CMS/Slider:- after submission getting bug============================================================================(done)
+2.Home:- Our Talent work with many of these leading companies need to make a button to edit ===========================(done)
+3.Home:- Explore our Programs need to make a button to edit ===========================================================(done)
+4.Home/Testimonial:- What our students are saying need to make a button to edit =======================================(done)
+5.Home:- Connect with our Hiring and Strategic Partners need to make a button to edit =================================(done)
+6.Footer:- Authorized Trainer Partners need to make a button to edit
+7.Courses/enrol now/payment plan/review n pay:- showing page not found after clicking submit button (Need to discuss)
+
+8.Courses/scrum product owner:- What You’ll Get need to make a button to edit =====================================(done)
+9.Courses/scrum product owner:- Course Schedule need to make a button to edit =====================================(done)
+10.Courses/scrum product owner:- Weekly Schedule need to make a button to edit ====================================(done)
+11.Courses/scrum product owner:- Upcoming Cohort need to make a button to edit ====================================(done)
+12.Courses/scrum product owner:- Tool You’ll Learn need to make a button to edit ==================================(done)
+13.Courses/scrum product owner:- Alumni Experience need to make a button to edit ==================================(done)
+14.Courses/scrum product owner:- Our Data Analyst Instructors( or you can add simply a Faculty/instructorbutton nearby of courses)====================(done)
+
+15.About us:- Join High Flying BlackTECH Alumnis at need to make a button to edit  (Need to discuss)
+
+16.Events > Priyanka:- Effect of AI to the General Public/Details need to add a column in added event (Need to discuss)
+
+17.Events > Priyanka:- Speaker Role need to add a column in added event  ===========================================================================(done)
+
+18.Events > Priyanka > Register:- Effect of AI to the General Public need to add a column in added event ===========================================(done)
+
+19.Testimonials:- button require to add content,image,logo ==========================================================================================(done)
+
+20.Testimonial:-button require to add content,image of>>>You Too Can Pivot Into In-Demand & High-Paying Tech Career! ================================(done)
+21.Hire our Alumni:-button require to add content>>>>Begin yourJourney today! =======================================================================(done)
+22.Hire our Alumni:-button require to add content,image of>>>What Our recruiting partners are saying ================================================(done)
+23.Hire our Alumni:-button require to add content>>>>Recruiting Partners ===================================================(Need to discuss)
+24.Contact us:- bugs in contact us form submission =================================================================================================(done)
+25.Refer a friend:- input not visible in backend ==================================================================================================(done)
+26.https://itdevelopmentservices.com/design_website/black-tech-academy/apply.html>>>>>this page is missing========================================(done)

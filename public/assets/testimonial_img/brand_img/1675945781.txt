@@ -1,0 +1,13 @@
+Teacher Panel:-
+1. forgot password button missing (Done)
+2. register button not clicable (Done)
+Front end
+3. event:- become a voulnteer button missing (Done)
+4. contact us:- send button not clickable (Done)
+User Dashboard
+5. image edit option/icon not available (Design)
+6. backend/contact us:- print phone no. in table (Done)
+7. change icon of side bar (Design)
+8. need to set backend and frontend as per logo design (Design)
+10. edit font  (Design)
+11. 
