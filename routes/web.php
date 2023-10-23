@@ -322,13 +322,14 @@ Route::get('/admin/slider_change_status/{id}',[SliderController::class,'slider_c
 
 //About us Route
 
-Route::get('/admin/show_section1',[SliderController::class,'show_section1']);
+// Route::get('/admin/show_section1',[SliderController::class,'show_section1']);
 
 Route::post('/admin/insert_absection1',[SliderController::class,'insert_absection1']);
 
 Route::get('/admin/del_sec1/{id}',[SliderController::class,'del_sec1']);
 
-Route::get('/admin/edt_sec1v/{id}',[SliderController::class,'edt_sec1v']);//Deena
+// Route::get('/admin/edt_sec1v/{id}',[SliderController::class,'edt_sec1v']);//Deena
+Route::get('/admin/show_section1',[SliderController::class,'edt_sec1v']);//Deena
 
 Route::post('/admin/save_edt_sec1v',[SliderController::class,'save_edt_sec1v']); //Deena
 
@@ -336,13 +337,14 @@ Route::get('/admin/sec1_chnge_status/{id}',[SliderController::class,'sec1_chnge_
 
 
 
-Route::get('/admin/show_section2',[SliderController::class,'show_section2']);
+// Route::get('/admin/show_section2',[SliderController::class,'show_section2']);
 
 Route::post('/admin/insert_absection2',[SliderController::class,'insert_absection2']);
 
 Route::get('/admin/del_sec2/{id}',[SliderController::class,'del_sec2']);
 
-Route::get('/admin/edt_sec2v/{id}',[SliderController::class,'edt_sec2v']);//Deena
+// Route::get('/admin/edt_sec2v/{id}',[SliderController::class,'edt_sec2v']);//Deena
+Route::get('/admin/show_section2',[SliderController::class,'edt_sec2v']);//Deena
 
 Route::post('/admin/save_edt_sec2v',[SliderController::class,'save_edt_sec2v']); //Deena
 
@@ -350,13 +352,14 @@ Route::get('/admin/sec2_chnge_status/{id}',[SliderController::class,'sec2_chnge_
 
 
 
-Route::get('/admin/show_section3',[SliderController::class,'show_section3']);
+// Route::get('/admin/show_section3',[SliderController::class,'show_section3']);
 
 Route::post('/admin/insert_absection3',[SliderController::class,'insert_absection3']);
 
 Route::get('/admin/del_sec3/{id}',[SliderController::class,'del_sec3']);
 
-Route::get('/admin/edt_sec3v/{id}',[SliderController::class,'edt_sec3v']);//Deena
+// Route::get('/admin/edt_sec3v/{id}',[SliderController::class,'edt_sec3v']);//Deena
+Route::get('/admin/show_section3',[SliderController::class,'edt_sec3v']);//Deena
 
 Route::post('/admin/save_edt_sec3v',[SliderController::class,'save_edt_sec3v']); //Deena
 

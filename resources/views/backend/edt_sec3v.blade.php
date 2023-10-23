@@ -21,7 +21,7 @@
               <!-- Horizontal Form -->
               <form action="{{ url('admin/save_edt_sec3v') }}"  onsubmit="return validate_slider();" method="post" enctype="multipart/form-data" id="course_form">
                 @csrf
-                @if(Session::has('message'))
+                @if(Session::has('message'))   
                   <p class="alert alert-success">{{ Session::get('message') }}</p>
                 @endif
                 

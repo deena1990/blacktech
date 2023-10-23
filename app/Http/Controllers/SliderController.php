@@ -218,9 +218,9 @@ class SliderController extends Controller
         Session::flash('message' , 'About Us Section 1 added sucessfully');
         return redirect('admin/show_section1');
     }
-    public function edt_sec1v($id)
+    public function edt_sec1v()
     {
-        $data['ausec1']=DB::table('tbl_ab_section1')->where('id',$id)->first();
+        $data['ausec1']=DB::table('tbl_ab_section1')->first();
         return view('backend.edt_sec1v',$data);
     }
     public function save_edt_sec1v (Request $request)
@@ -304,9 +304,9 @@ class SliderController extends Controller
         Session::flash('message' , 'About Us Section 2 added sucessfully');
         return redirect('admin/show_section2');
     }
-    public function edt_sec2v($id)
+    public function edt_sec2v()
     {
-        $data['ausec2']=DB::table('tbl_ab_section2')->where('id',$id)->first();
+        $data['ausec2']=DB::table('tbl_ab_section2')->first();
         return view('backend.edt_sec2v',$data);
     }
     public function save_edt_sec2v (Request $request)
@@ -387,9 +387,9 @@ class SliderController extends Controller
         Session::flash('message' , 'About Us Section 3 added sucessfully');
         return redirect('admin/show_section3');
     }
-    public function edt_sec3v($id)
+    public function edt_sec3v()
     {
-        $data['ausec3']=DB::table('tbl_ab_section3')->where('id',$id)->first();
+        $data['ausec3']=DB::table('tbl_ab_section3')->first();
         return view('backend.edt_sec3v',$data);
     }
     public function save_edt_sec3v (Request $request)
